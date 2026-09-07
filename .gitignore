@@ -1,0 +1,17 @@
+./V5a
+./V5B
+./V5C
+./V5D
+
+V5a/
+V5B/
+V5C/
+V5D/
+
+*.jsonl
+V5a/
+V5B/
+V5C/
+V5D/
+
+dataset/
